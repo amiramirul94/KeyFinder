@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Key Finder</string>
+    <string name="authenticate">Authenticate</string>
+    <string name="clue">Your Key Is Around Here Somewhere. Choose an Image To Find Out!</string>
+    <string name="failed">Ooops. Your key is not here. Please find somewhere else</string>
+    <string name="success">Congratulations!!! You\'ve found your key</string>
+</resources>
